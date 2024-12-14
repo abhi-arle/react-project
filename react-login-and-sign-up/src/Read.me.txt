@@ -1,0 +1,5 @@
+Dear sir/mam
+all files proper move to react project
+ install React Bootstrap 
+ install React icons
+ 
